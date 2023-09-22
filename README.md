@@ -13,7 +13,7 @@
 
 - 결과물
     
-    [노션 페이지](https://www.notion.so/e785ab80daad48fb98d0e0fe418778f7)
+    [노션 페이지](https://www.notion.so/93fc5a1ebd7e481ab2568f4034142633?v=84eccd451b14445f973504f67314aacd)
     
 
 - 데이터 셋
